@@ -259,7 +259,7 @@ function dekripsi($text, $shift = 3){ /*Mengembalikan cipher menjadi teks*/
 }
 
 
-// Input
+// Masukkan
 $teks = "";
 $chiper = "";
 $dekripsi = "";
