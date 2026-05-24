@@ -226,7 +226,7 @@ function enkripsi($text, $shift = 3){
 
 
 // Fungsi Dekripsi
-function dekripsi($text, $shift = 3){ //Mengembalikan cipher menjadi teks
+function dekripsi($text, $shift = 3){ /*Mengembalikan cipher menjadi teks*/
 
     $hasil = "";
 
